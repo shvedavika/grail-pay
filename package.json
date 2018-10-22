@@ -1,0 +1,10 @@
+{
+  "name": "GrailPay",
+  "version": "0.0.1",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {
+    "less": "^2.7.3"
+  }
+}
